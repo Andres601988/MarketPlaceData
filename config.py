@@ -6,5 +6,5 @@ NETEZZA_CONFIG = {
     "DATABASE": "DESA_RIESGOS",
     "DATABASE": "DESA_MODELOS",
     "USER": "ldetomas",
-    "PASSWORD": "Lima.2044"
+    "PASSWORD": "Lima.2014"
 }
